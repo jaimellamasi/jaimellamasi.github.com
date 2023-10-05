@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Some little information about me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Who I am?
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- My name is **Jaime Llamas**.
+- 👶🏼 I was born and studied Computer Engineering in [Málaga](https://visita.malaga.eu/en/)
+- I am currently living in Madrid 🏠
 
-What else do you need?
+## What do I do?
 
-### My story
+- I work as 💻 Senior Software Engineer at [Aircall](http://www.aircall.io)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## What do I love?
+
+- Enjoy my family 👨‍👩‍👧‍👧
+- Watch football ⚽ and motorsports 🏎️
+- Practice some sports 🏃 🚴🏽 🏊🏽
